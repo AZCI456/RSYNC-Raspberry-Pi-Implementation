@@ -3,9 +3,11 @@
 from my first ares data transfer project 4 months back - for reference and reuse.
 
 **TO-DO **implementations for next set-up:
+
 should make the IP static between the pi and the computer.
 
 **Set up:**
+
 In no particular order...
 Sudo to give excicutable permissions for the bash script on the file
 
