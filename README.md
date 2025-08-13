@@ -23,4 +23,4 @@ This was actually beneficial for the rocket project as we didn't need to keep al
 
 Configure the rsync flags to your liking.
 
-mit opensource licence 
+mit opensource licence - go ham with the simple code lol 
