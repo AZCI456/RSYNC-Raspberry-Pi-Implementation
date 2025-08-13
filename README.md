@@ -2,10 +2,11 @@
 
 from my first ares data transfer project 4 months back - for reference and reuse.
 
-TO-DO implementations for next set-up:
+**TO-DO **implementations for next set-up:
 should make the IP static between the pi and the computer.
 
-Set up:
+**Set up:**
+In no particular order...
 Sudo to give excicutable permissions for the bash script on the file
 
 set up an ssh connection between the computer and the pi and generate public/private keys so that you can log in passwordless (required for the rysc to operate)
